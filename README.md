@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @vt-gianni
+# 👋 Hi, I’m Gianni
 
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning React native to build cross-platform apps.
