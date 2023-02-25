@@ -7,7 +7,7 @@
 ## Please take a look at my projects
 
 1. :trophy: [Tournois FFTT](https://github.com/vt-gianni/PingContest)
-2. :zap: [MarauderAPI](https://github.com/vt-gianni/MarauderAPI)
+2. :zap: [Carte du Marauder](https://github.com/vt-gianni/MarauderAPI)
 
 <!---
 vt-gianni/vt-gianni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
