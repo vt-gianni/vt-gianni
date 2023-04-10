@@ -8,6 +8,7 @@
 
 <!--1. :trophy: [Tournois FFTT](https://github.com/vt-gianni/PingContest)-->
 1. :zap: [Marauder's Map](https://github.com/vt-gianni/MarauderAPI)
+2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-des-trois-oceans.fr/)
 
 <!---
 vt-gianni/vt-gianni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
