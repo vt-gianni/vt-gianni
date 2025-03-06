@@ -14,7 +14,7 @@
 PronoPing allows table tennis enthusiasts to create pools between friends and bet on international competitions. 
 ```
 
-2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-des-trois-oceans.fr/)
+2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-ilshenar.fr/)
 
 ```
 Pirates des Trois Océans is the remake of a web game about piracy, very popular in the early 2010s.
