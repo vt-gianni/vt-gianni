@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in web and mobile development.
 - 🌱 I’m currently learning Java Spring Boot to build modern websites.
-- 📫 How to reach me: gg@vitalytech.com
+- 📫 How to reach me: giannigiudice.fr@gmail.com
 
 ## Please take a look at my projects
 
