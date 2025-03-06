@@ -11,7 +11,7 @@
 1. 🏓 [PronoPing](https://pronoping.com)
 
 ```
-PronoPing allows table tennis enthusiasts to create leagues between friends and bet on international competitions. 
+PronoPing allows table tennis enthusiasts to create pools between friends and bet on international competitions. 
 ```
 
 2. 🏴‍☠️ [Pirates des Trois Océans](https://pirates-des-trois-oceans.fr/)
